@@ -8,16 +8,13 @@
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">This is our great company.</h1>
+          <h1 class="title">Jules Spender</h1>
           <div class="text-center">
-            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-facebook-square"></i>
+            <a href="https://github.com/SpenderJ" class="btn btn-primary btn-icon btn-round">
+              <i class="fab fa-github"></i>
             </a>
-            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-twitter"></i>
-            </a>
-            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-google-plus"></i>
+            <a href="https://www.linkedin.com/in/jules-spender-927a69135/" class="btn btn-primary btn-icon btn-round">
+            <i class="fab fa-linkedin"></i>
             </a>
           </div>
         </div>
@@ -27,7 +24,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto text-center">
-            <h2 class="title">Who we are?</h2>
+            <h2 class="title">Who am I</h2>
             <h5 class="description">
               According to the National Oceanic and Atmospheric Administration,
               Ted, Scambos, NSIDClead scentist, puts the potentially record low
