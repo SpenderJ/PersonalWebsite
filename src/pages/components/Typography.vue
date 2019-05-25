@@ -140,6 +140,7 @@
     </div>
   </div>
 </template>
+
 <script>
 
 import { Card, Button } from '@/components';
