@@ -18,22 +18,37 @@
         trigger="hover"
       >
         <div class="popover-body">
-          Created by Jules Spender. Using Vue and Now Ui Kit
+          Jules Spender.
+          <br>
+          VueJs | Now Ui Kit
         </div>
       </el-popover>
     </template>
     <template slot="navbar-menu">
       <li class="nav-item">
         <a
-          class="nav-link"
-          rel="tooltip"
-          title="Follow me on Github"
-          data-placement="bottom"
-          href="https://github.com/SpenderJ"
-          target="_blank"
+                class="nav-link"
+                rel="tooltip"
+                title="Follow me on Github"
+                data-placement="bottom"
+                href="https://github.com/SpenderJ"
+                target="_blank"
         >
           <i class="fab fa-github"></i>
           <p class="d-lg-none d-xl-none">Github</p>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a
+                class="nav-link"
+                rel="tooltip"
+                title="Follow me on Linkedin"
+                data-placement="bottom"
+                href="https://www.linkedin.com/in/jules-spender-927a69135/"
+                target="_blank"
+        >
+          <i class="fab fa-linkedin"></i>
+          <p class="d-lg-none d-xl-none">Linkedin</p>
         </a>
       </li>
     </template>
