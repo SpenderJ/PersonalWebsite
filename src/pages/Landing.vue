@@ -75,6 +75,9 @@
                 <a href="https://www.linkedin.com/company/wiserskills1/?originalSubdomain=fr" class="btn btn-primary btn-icon btn-round"
                   ><i class="fab fa-linkedin"></i
                 ></a>
+                  <a href="https://www.wiserskills.com/" class="btn btn-primary btn-icon btn-round"
+                  ><i class="fab fa-google"></i
+                  ></a>
               </div>
             </div>
           </div>
