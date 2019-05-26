@@ -12,7 +12,7 @@
     "bootstrap": "^4.3.0",
     "element-ui": "^2.5.4",
     "nouislider": "^11.1.0",
-    "vue": "^2.6.6",
+    "vue": "^2.6.10",
     "vue-lazy-load": "^0.0.7",
     "vue-lazyload": "^1.2.6",
     "vue-router": "^3.0.2",
@@ -28,6 +28,7 @@
     "babel-loader": "^8.0.6",
     "babel-plugin-component": "^1.1.1",
     "node-sass": "^4.11.0",
+    "push-dir": "^0.4.1",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.6.6",
     "webpack": "^4.32.2"
