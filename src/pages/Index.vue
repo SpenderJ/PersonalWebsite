@@ -17,9 +17,9 @@
             <router-link class="btn btn-primary btn-round" to="/landing">
                 Interest
             </router-link>
-            <router-link class="btn btn-primary btn-round" to="/">
-                Contact Me
-            </router-link>
+            <a href="https://cv.42.fr/juspende" class="btn btn-primary btn-round">
+                42 resume
+            </a>
         </div>
       </div>
     </div>

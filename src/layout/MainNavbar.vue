@@ -25,6 +25,22 @@
       </el-popover>
     </template>
     <template slot="navbar-menu">
+      <drop-down
+              tag="li"
+              title="    Pages"
+              icon="now-ui-icons design_image"
+              class="nav-item"
+      >
+        <nav-link to="/profile">
+          <i class="now-ui-icons education_paper"></i> About Me
+        </nav-link>
+        <nav-link to="/landing">
+          <i class="now-ui-icons users_circle-08"></i> Interest
+        </nav-link>
+        <nav-link to="/">
+          <i class="now-ui-icons users_single-02"></i> Home
+        </nav-link>
+      </drop-down>
       <li class="nav-item">
         <a
                 class="nav-link"

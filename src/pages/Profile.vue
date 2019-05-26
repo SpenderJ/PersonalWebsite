@@ -3,123 +3,53 @@
     <div class="page-header clear-filter" filter-color="orange">
       <parallax
         class="page-header-image"
-        style="background-image:url('img/bg5.jpg')"
+        style="background-image:url('img/rugby.jpg')"
       >
       </parallax>
       <div class="container">
         <div class="photo-container">
-          <img src="img/ryan.jpg" alt="" />
+          <img src="img/julesprofile.jpg" alt="" />
         </div>
-        <h3 class="title">Ryan Scheinder</h3>
-        <p class="category">Photographer</p>
+        <h3 class="title">Jules Spender</h3>
+        <p class="category">Developer</p>
         <div class="content">
           <div class="social-description">
-            <h2>26</h2>
-            <p>Comments</p>
+            <h2>15/2</h2>
+            <p>Tennis</p>
           </div>
           <div class="social-description">
-            <h2>26</h2>
-            <p>Comments</p>
+            <h2>FFSE</h2>
+            <p>Rugby</p>
           </div>
           <div class="social-description">
-            <h2>48</h2>
-            <p>Bookmarks</p>
+            <h2>4 years</h2>
+            <p>Windsurf Teacher</p>
           </div>
         </div>
       </div>
     </div>
     <div class="section">
       <div class="container">
-        <div class="button-container">
-          <a href="#button" class="btn btn-primary btn-round btn-lg">Follow</a>
-          <a
-            href="#button"
-            class="btn btn-default btn-round btn-lg btn-icon"
-            rel="tooltip"
-            title="Follow me on Twitter"
-          >
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a
-            href="#button"
-            class="btn btn-default btn-round btn-lg btn-icon"
-            rel="tooltip"
-            title="Follow me on Instagram"
-          >
-            <i class="fab fa-instagram"></i>
-          </a>
-        </div>
         <h3 class="title">About me</h3>
         <h5 class="description">
-          An artist of considerable range, Ryan — the name taken by
-          Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and
-          records all of his own music, giving it a warm, intimate feel with a
-          solid groove structure. An artist of considerable range.
+          My name is Jules Spender. I was born in 1998, in Paris. After a Scientific bac, I joined EPITECH. After having validated
+          my first year there, I decided to attend 42 "Piscine" in July 2017. I got accepted and joined 42 on november 2017. On september
+          2018 I joined WiserSkills to attend a 5 months internship. I am now studying at 42 Silicon Valley data science and advanced
+          algorithmic project.
+          <br>
+          I've practiced tennis in competition for 8 years before joining Renault's rugby team in FFSE. Sport addict, I've been sailing
+          since my youngest age and since 4 years, during summer, I've been working as a monitor mostly in windsurf. I'm also a graduated
+          tennis referee (A1).
         </h5>
-        <div class="row">
-          <div class="col-md-6 ml-auto mr-auto">
-            <h4 class="title text-center">My Portfolio</h4>
-          </div>
-          <tabs
-            pills
-            class="nav-align-center"
-            tab-content-classes="gallery"
-            tab-nav-classes="nav-pills-just-icons"
-            type="primary"
-          >
-            <tab-pane title="Profile">
-              <i slot="label" class="now-ui-icons design_image"></i>
-
-              <div class="col-md-10 ml-auto mr-auto">
-                <div class="row collections">
-                  <div class="col-md-6">
-                    <img src="img/bg6.jpg" class="img-raised" />
-                    <img src="img/bg11.jpg" alt="" class="img-raised" />
-                  </div>
-                  <div class="col-md-6">
-                    <img src="img/bg7.jpg" alt="" class="img-raised" />
-                    <img src="img/bg8.jpg" alt="" class="img-raised" />
-                  </div>
-                </div>
-              </div>
-            </tab-pane>
-
-            <tab-pane title="Home">
-              <i slot="label" class="now-ui-icons location_world"></i>
-
-              <div class="col-md-10 ml-auto mr-auto">
-                <div class="row collections">
-                  <div class="col-md-6">
-                    <img src="img/bg1.jpg" alt="" class="img-raised" />
-                    <img src="img/bg3.jpg" alt="" class="img-raised" />
-                  </div>
-                  <div class="col-md-6">
-                    <img src="img/bg8.jpg" alt="" class="img-raised" />
-                    <img src="img/bg7.jpg" alt="" class="img-raised" />
-                  </div>
-                </div>
-              </div>
-            </tab-pane>
-
-            <tab-pane title="Messages">
-              <i slot="label" class="now-ui-icons sport_user-run"></i>
-
-              <div class="col-md-10 ml-auto mr-auto">
-                <div class="row collections">
-                  <div class="col-md-6">
-                    <img src="img/bg3.jpg" alt="" class="img-raised" />
-                    <img src="img/bg8.jpg" alt="" class="img-raised" />
-                  </div>
-                  <div class="col-md-6">
-                    <img src="img/bg7.jpg" alt="" class="img-raised" />
-                    <img src="img/bg6.jpg" class="img-raised" />
-                  </div>
-                </div>
-              </div>
-            </tab-pane>
-          </tabs>
-        </div>
       </div>
+      <h3 class="title">Contact</h3>
+      <h5 class="description">
+        I'm mostly looking for a part-time, but I stay open to any offers.
+        <br>
+        Feel free to contact me
+        <br>
+        • juspende@student.42.fr
+      </h5>
     </div>
   </div>
 </template>
