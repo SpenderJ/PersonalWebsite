@@ -64,8 +64,8 @@
                 <h4 class="title">WiserSkills</h4>
                 <p class="category text-primary">Intern Fullstack Developer</p>
                 <p class="description">
-                  Jules managed to quickly integrate the team and involved himself with success in any mission that
-                  was given to him. His passion for development was communicative, even there was methodology still to learn.
+                  Jules was very quickly fully part of the team and took part succesfuly in all tasks he was assigned.
+                  He communicates his skills and passion for development very efficiently, and will rapidly fix methodology issues.
                   The whole WiserSkills team thank him for his contribution and wish him
                   all the success in his future professional experiences.
                 </p>
