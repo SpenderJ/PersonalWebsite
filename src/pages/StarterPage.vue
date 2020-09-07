@@ -1,7 +1,7 @@
 <template>
   <div class="starter-page">
     <div class="section text-center">
-      <h3>Create your next awesome website</h3>
+      <h3>Jules Spender</h3>
     </div>
   </div>
 </template>
