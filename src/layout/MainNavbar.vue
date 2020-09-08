@@ -20,14 +20,14 @@
         <div class="popover-body">
           Jules Spender.
           <br>
-          VueJs
+          VueJs | Now Ui Kit
         </div>
       </el-popover>
     </template>
     <template slot="navbar-menu">
       <drop-down
               tag="li"
-              title="    Sections"
+              title="    Pages"
               icon="now-ui-icons design_image"
               class="nav-item"
       >

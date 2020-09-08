@@ -10,7 +10,7 @@
         <div class="content-center brand">
           <img class="n-logo" src="img/favicon.png" alt="" />
           <h1 class="h1-seo">Jules Spender</h1>
-          <h3>Student at 42 | Student Contract as a Data Scientist at Engie</h3>
+          <h3>Studying Computer Science at 42 Silicon Valley</h3>
             <router-link class="btn btn-primary btn-round" to="/profile">
                 About Me
             </router-link>

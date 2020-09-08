@@ -29,11 +29,10 @@
           <div class="col-md-8 ml-auto mr-auto text-center">
             <h2 class="title">My projects</h2>
             <h5 class="description">
-              Currently I am spending most of my time working as a Data Scientist for Engie and working on various topics at 42 Paris.
+              Currently I am spending most of my time working on advanced algorithmic project at 42 Silicon Valley.
               I'm interested in any languages and can adapt and learn really fast.
               Last project I made was creating a mathematical set from scratch without any library to handle parsing or matrix.
-              After finishing a server and a client to work with the voice recognition library Sphinx in C language, I'm currently
-              working on a lower level: assembly.
+              I'm now working on creating a server and a client to work with the voice recognition library Sphinx.
             </h5>
           </div>
           <div class="col-md-8 ml-auto mr-auto text-center">
@@ -41,9 +40,8 @@
             <h5 class="description">
               In november 2018, I had the chance to join WiserSkills for a 5 months Internship.
               I loved this experience. Having the chance to join this project was a life changer experience for me.
-              I got given the opportunity to work at Engie E&C as a Data Scientist while finishing my master degree at 42 Paris.
-              Thinking about the future, I'll end my master degree on november 2021.
-              At the moment I'm 100% focused on my work and I'll think about the after later.
+              I am now given the opportunity, to get a Part-Time job aside of my studies at 42.
+              I am really motivated to join a new project and put my skills at the service of a concrete goal.
             </h5>
           </div>
         </div>
