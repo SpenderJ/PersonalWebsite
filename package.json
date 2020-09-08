@@ -12,12 +12,10 @@
   },
   "dependencies": {
     "@vue/eslint-plugin": "^4.2.0",
-    "acorn": "^8.0.1",
     "bootstrap": "^4.3.0",
     "element-ui": "^2.5.4",
     "nouislider": "^11.1.0",
-    "package.json": "^2.0.1",
-    "vue": "^2.6.12",
+    "vue": "^2.6.10",
     "vue-lazy-load": "^0.0.7",
     "vue-lazyload": "^1.2.6",
     "vue-router": "^3.0.2",
@@ -35,9 +33,8 @@
     "node-sass": "^4.11.0",
     "push-dir": "^0.4.1",
     "sass-loader": "^7.1.0",
-    "typescript-tslint-plugin": "^0.5.5",
     "vue-gh-pages": "^1.19.0",
-    "vue-template-compiler": "^2.6.12",
+    "vue-template-compiler": "^2.6.6",
     "webpack": "^4.32.2"
   }
 }
