@@ -89,7 +89,9 @@ p{
     }
 }
 
-.description,
+.description{
+  color: $light-black;
+}
 .card-description,
 .footer-big p{
     color: $dark-gray;

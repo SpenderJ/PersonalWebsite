@@ -10,7 +10,7 @@
         <div class="container">
           <h1 class="title">Jules Spender</h1>
           <div class="text-center">
-            <h3>French 42 student</h3>
+            <h3>42 Paris Student</h3>
           </div>
           <div class="text-center">
             <a href="https://github.com/SpenderJ" class="btn btn-primary btn-icon btn-round">
@@ -29,19 +29,22 @@
           <div class="col-md-8 ml-auto mr-auto text-center">
             <h2 class="title">My projects</h2>
             <h5 class="description">
-              Currently I am spending most of my time working on advanced algorithmic project at 42 Silicon Valley.
+              Currently I am spending most of my time working on advanced algorithmic project at 42 Paris.
+              I'm also working as a Data Scientist at Engie E&C completing my master degree on student work contract.
               I'm interested in any languages and can adapt and learn really fast.
-              Last project I made was creating a mathematical set from scratch without any library to handle parsing or matrix.
-              I'm now working on creating a server and a client to work with the voice recognition library Sphinx.
+              Some of the last project I made:<br/>
+              <br/>- Creation of a mathematical set from scratch without any library to handle parsing or matrix.
+              <br/>- Creation of a server and a client to work with the voice recognition library Sphinx in C.
+              <br/>- Creation of personal linear regression, logistic regression, and neural networks algorithms in Python.
             </h5>
           </div>
           <div class="col-md-8 ml-auto mr-auto text-center">
             <h2 class="title">My objectives</h2>
             <h5 class="description">
               In november 2018, I had the chance to join WiserSkills for a 5 months Internship.
-              I loved this experience. Having the chance to join this project was a life changer experience for me.
-              I am now given the opportunity, to get a Part-Time job aside of my studies at 42.
-              I am really motivated to join a new project and put my skills at the service of a concrete goal.
+              I loved this experience. Having the chance to join this project was a life changer experience for me.<br/>
+              After spending 4 months in the Silicon Valley, working with on a wide range of subjects about Computer Science and Data Science.
+              I'm now back in Paris completing my master degree on a student contract as a Data Scientist at Engie E&C.
             </h5>
           </div>
         </div>

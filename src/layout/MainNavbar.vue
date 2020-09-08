@@ -20,7 +20,7 @@
         <div class="popover-body">
           Jules Spender.
           <br>
-          VueJs | Now Ui Kit
+          Data Scientist Developer
         </div>
       </el-popover>
     </template>
